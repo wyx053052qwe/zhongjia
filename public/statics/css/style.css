@@ -1,0 +1,455 @@
+body,
+div,
+ul,
+ol,
+dl,
+dt,
+dd,
+li,
+dl,
+h1,
+h2,
+h3,
+h4,
+p,
+marquee,
+from {
+	margin: 0;
+	padding: 0;
+}
+
+.zhunli-head img {
+	width: 100%;
+	display: block;
+	overflow: hidden;
+}
+
+.w-nav {
+	width: 1400px !important;
+	margin: 0 auto;
+}
+
+.w1200 {
+	width: 1202px;
+	margin: 0 auto;
+}
+
+.footer-box {
+	background-color: #f8f8f8;
+	margin-top: 50px;
+}
+
+.footer-box .box-5ser {
+	height: 120px;
+	background-color: #f8f8f8;
+	border: 1px solid #f5f5f5;
+	border-bottom: 0;
+	font: 12px/1.5 "微软雅黑", "Microsoft Yahei", "Hiragino Sans GB", Helvetica;
+	color: #666;
+}
+
+.footer-box .box-5ser ul {
+	margin: 40px 70px 0 130px;
+}
+
+.footer-box .box-5ser ul li {
+	width: 280px;
+	height: 50px;
+	line-height: 50px;
+	margin-right: 50px;
+	float: left;
+	font-size: 15px;
+	color: #666;
+}
+
+.footer-box .box-5ser ul li span.img1 {
+	background-position: 0 0;
+}
+
+.footer-box .box-5ser ul li span {
+	width: 30px;
+	height: 30px;
+	display: block;
+	margin: 10px;
+	float: left;
+	background-image: url(../images/service.png);
+	background-repeat: no-repeat;
+}
+
+.footer-box .box-5ser ul li span.img1 {
+	background-position: 0 0;
+}
+
+.footer-box .box-5ser ul li span.img2 {
+	background-position: -30px 0;
+}
+
+.footer-box .box-5ser ul li span.img3 {
+	background-position: -60px 0;
+}
+
+.footer-box .box-5ser ul li span.img4 {
+	background-position: -90px 0;
+}
+
+.footer-box .box-info {
+	background-color: #f8f8f8;
+	border: 1px solid #f5f5f5;
+	border-top: 0;
+	border-bottom: 0;
+	line-height: 28px;
+}
+
+.footer-box .box-info .line {
+	margin: 0 30px;
+	background-color: #f8f8f8;
+	border-bottom: 1px dotted #999;
+}
+
+.footer-box .box-info ul {
+	margin: 20px 10px 0 40px;
+	padding-bottom: 20px;
+}
+
+.footer-box .box-info ul li {
+	float: left;
+}
+
+.footer-box .box-info ul li.w1 {
+	width: 145px;
+}
+
+.footer-box .box-info ul li.w2 {
+	width: 250px;
+}
+
+.footer-box .box-info ul li.w3 {
+	width: 250px;
+}
+
+.footer-box .box-info ul li.w4 {
+	width: 200px;
+}
+
+.footer-box .box-info ul li.w5 {
+	width: 150px;
+}
+
+.footer-box .box-info ul li.w6 {
+	width: 130px;
+}
+
+.footer-box .box-info ul li.w7 {
+	width: 250px;
+}
+
+.footer-box .box-info dl dt {
+	height: 40px;
+	line-height: 40px;
+	font-size: 14px;
+	color: #00a1cc;
+}
+
+.footer-box .box-info dl dt a {
+	color: #00a1cc;
+	text-decoration: none;
+}
+
+.footer-box .box-infodl dd {
+	line-height: 28px;
+	font-size: 12px;
+	font-weight: normal;
+	color: #666;
+}
+
+.footer-box .box-info dl dd a {
+	color: #666;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.footer-box .box-info dl dd a:hover {
+	color: #008fcc;
+}
+
+.footer-box .box-info .em4 {
+	text-indent: 4.5em;
+}
+
+.footer-box .box-info .em5 {
+	text-indent: 5.5em;
+}
+
+.footer-box .box-info .img {
+	width: 100px;
+	height: 120px;
+	overflow: hidden;
+	border: 1px solid #ddd;
+}
+
+.footer-box .box-info .img img {
+	width: 100px;
+	height: 120px;
+}
+
+.footer-box .box-copyright {
+	border: 1px solid #f5f5f5;
+	border-top: 0;
+	text-align: center;
+}
+
+.footer-box .box-copyright .line {
+	margin: 0 30px;
+	background-color: #f8f8f8;
+	border-bottom: 1px dotted #999;
+}
+
+.footer-box .box-copyright p {
+	height: 24px;
+	line-height: 24px;
+	padding-top: 20px;
+	color: #666;
+	font-size: 12px;
+}
+
+.footer-box .box-copyright ul {
+	width: 330px;
+	margin: 20px auto;
+}
+
+.footer-box .box-copyright ul li {
+	width: 83px;
+	height: 30px;
+	margin: 0 13px;
+	float: left;
+}
+
+.footer-box .box-copyright ul li {
+	width: 83px;
+	height: 30px;
+	line-height: 90px;
+	display: block;
+	overflow: hidden;
+	background-image: url(../images/copyright.png);
+	background-repeat: no-repeat;
+}
+
+.footer-box .box-copyright ul li.img1 {
+	background-position: 0 0;
+}
+
+.footer-box .box-copyright ul li.img2 {
+	background-position: 0 -30px;
+}
+
+.footer-box .box-copyright ul li.img3 {
+	background-position: 0 -60px;
+}
+
+.footer-box .box-hottel {
+	width: 170px;
+	text-align: center;
+	/*padding: 15px 30px;
+	border: 1px dotted #00a1cc;*/
+	font-family: "微软雅黑", "Microsoft Yahei";
+}
+
+.footer-box .box-hottel:hover {
+	/*background-color: #eeffff;
+	border: 1px dotted #00a1cc;*/
+}
+
+.footer-box .box-hottel p {
+	font-size: 14px;
+	line-height: 25px;
+	color: #666;
+}
+
+.footer-box .box-hottel h4 {
+	color: #ff6700;
+	height: 50px;
+	line-height: 50px;
+	font-size: 22px;
+	font-weight: 700px;
+}
+
+.footer-box .box-hottel a {
+	width: 165px;
+	height: 35px;
+	line-height: 35px;
+}
+
+.footer-box .box-hottel a i {
+	width: 22px;
+	height: 22px;
+	display: inline-block;
+	background-image: url(../images/tel.png);
+	background-repeat: no-repeat;
+	background-size: 22px 22px;
+	vertical-align: middle;
+	margin-right: 5px;
+}
+
+
+/*悬浮客服*/
+
+.yb_conct {
+	position: fixed;
+	z-index: 9999999;
+	top: 400px;
+	right: -127px;
+	cursor: pointer;
+	transition: all .3s ease;
+}
+
+.yb_bar ul li {
+	width: 180px;
+	height: 53px;
+	font: 16px/53px 'Microsoft YaHei';
+	color: #fff;
+	text-indent: 54px;
+	margin-bottom: 3px;
+	border-radius: 3px;
+	transition: all .5s ease;
+	overflow: hidden;
+}
+
+.yb_bar .yb_top {
+	background: #ff4a00 url(../img/fixCont.png) no-repeat 0 0;
+}
+
+.yb_bar .yb_phone {
+	background: #ff4a00 url(../img/fixCont.png) no-repeat 0 -57px;
+}
+
+.yb_bar .yb_QQ {
+	text-indent: 0;
+	background: #ff4a00 url(../img/fixCont.png) no-repeat 0 -113px;
+}
+
+.yb_bar .yb_ercode {
+	background: #ff4a00 url(../img/fixCont.png) no-repeat 0 -169px;
+}
+
+.hd_qr {
+	padding: 0 29px 25px 29px;
+}
+
+.yb_QQ a {
+	display: block;
+	text-indent: 54px;
+	width: 100%;
+	height: 100%;
+	color: #fff;
+}
+
+
+/*分页导航*/
+
+.shop-nav {
+	width: 1155px !important;
+	margin: 0 auto;
+	position: inherit;
+	    padding-left: 0.5%;
+}
+
+
+
+.shop-nav .menu ul>li.intro>h2 a:before{
+	content: "";
+	position: absolute;
+	width: 70%;
+	padding: 0 31px;
+	height: 2px;
+	background-color: #ff9c01;
+	left: 13%;
+	
+	bottom: 25px;
+}
+.shop-nav .menu ul li h2 a {
+    padding: 0 31px;
+    line-height: 80px;
+    display: block;
+    height: 80px;
+    color: #333;
+   font-size: 16px;
+    font-weight: 500;
+   
+}
+
+
+.logo_l {
+	width: 1000px;
+	height: 106px;
+	color: #fff;
+	overflow: hidden;
+	line-height: 144px;
+	margin-top: 50px;
+}
+
+.logo_l_1 {
+	font-family: microsoft yahei;
+	height: 144px;
+	line-height: 144px;
+	overflow: hidden;
+	padding-left: 251px;
+}
+
+.logo_l_2 {
+	height: 62px;
+	padding-left: 10px;
+	overflow: hidden
+}
+
+.logo_l_2_s {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: Uppercase;
+	overflow: hidden
+}
+
+.logo_l_2_x {
+	font-family: 黑体;
+	font-size: 20px;
+	font-weight: bold;
+	overflow: hidden
+}
+
+.logo_r {
+	overflow: hidden;
+	height: 123px;
+	width: 325px;
+	font-size: 16px;
+	line-height: 1.6em;
+	color: #fff;
+	font-family: microsoft yahei;
+	margin-top: 50px;
+}
+
+.shop-left {
+	float: left
+}
+
+.shop-right {
+	float: right
+}
+
+.hCLass {
+	color: white;
+	font-size: 50px;
+	padding: 0px;
+	margin: 0px;
+	display: block;
+	height: 110px;
+	overflow: hidden;
+	line-height: 110px;
+}
+
+.shop-banner2 {
+	width: 100%;
+	height: 206px;
+	background: url(../images/shop-banner.jpg) no-repeat;
+	overflow: hidden;
+	background-size: 100% 100%;
+}
